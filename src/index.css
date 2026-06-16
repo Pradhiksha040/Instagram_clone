@@ -1,0 +1,58 @@
+.w-20{
+  width: 20%;
+}
+
+.w-30{
+  width: 30%;
+}
+.logo-text{
+  width: 100px;
+  margin: 10px;
+}
+.bi{
+  margin-right: 10px;
+}
+.bi :hover{
+  cursor: pointer;
+}
+.story{
+  height: 70px;
+  padding: 10px;
+  
+
+}
+.dp{
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+.image{
+  width: 300px;
+
+}
+.suggestions h5{
+  font-size: 16px;
+}
+.suggestions .dp{
+  margin: top 0px !important;
+}
+.gradient-border{
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg , #ff00ff,#ff6600,#ffcc00);
+}
+.story-dp{
+  width: 40px;
+}
+.profile :hover{
+  cursor: pointer;
+}
+.profiles{
+  width: 100px;
+  height: 100px;
+}
