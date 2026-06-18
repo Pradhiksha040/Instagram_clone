@@ -188,8 +188,8 @@
       "username": "pradhiksha040",
       "name": "Pradhiksha M",
       "profile_pic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150",
-      "bio": "Web Developer & Designer | Creating pixel-perfect clones 💻✨\n📩 DM for collaborations!\n📍 Chennai, India",
-      "website": "github.com/Pradhiksha040",
+      "bio": "Web Developer & Designer | Creating pixel-perfect clones 💻✨\n📩 DM for collaborations!\n📍 Coimbatore, India",
+      "website": "https://github.com/Pradhiksha040/Instagram_clone",
       "postsCount": 3,
       "followersCount": 1024,
       "followingCount": 512
@@ -238,5 +238,6 @@
       "text": "Hi! Are you going to add css filters in the creation modal?",
       "timestamp": "2026-06-18T09:30:00Z"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
