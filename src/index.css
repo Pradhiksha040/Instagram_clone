@@ -107,11 +107,12 @@ body {
 }
 
 .logo-img {
-  max-width: 103px;
-  filter: invert(1);
-}
-:root.light-theme .logo-img {
-  filter: invert(0);
+  max-width: 100%;
+  background-color: #ffffff;
+  padding: 6px 12px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  display: block;
 }
 
 .sidebar-menu {
