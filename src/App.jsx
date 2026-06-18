@@ -1,16 +1,15 @@
-import React from 'react'
-import Sidebar from './Sidebar'
-import Feed from './Feed'
-import Suggestions from "./Suggestions";
+import Feed from './Feed';
+import Suggestions from './Suggestions';
 
 function App() {
   return (
-    <div className="d-flex vh-100 " >
-      <div className="w-20"><Sidebar/></div>
-      <div className="w-50 "><Feed></Feed></div>
-      <div className="w-30"><Suggestions></Suggestions></div>
+    <div className="d-flex w-100 gap-4 justify-content-center" style={{ maxWidth: '935px' }}>
+      <div className="flex-grow-1" style={{ maxWidth: '470px' }}>
+        <Feed />
+      </div>
+      <Suggestions />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

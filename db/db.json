@@ -6,86 +6,105 @@
         "id": 1,
         "username": "pradhiksha040",
         "name": "Pradhiksha M",
-        "profile_pic": "https://i.pravatar.cc/150?img=1"
+        "profile_pic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150"
       },
-      "image": "https://picsum.photos/500/500?random=1",
-      "caption": "Beautiful sunset 🌅",
-      "likes": 120,
-      "createdAt": "2026-06-11T10:00:00Z"
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=800",
+      "caption": "Chasing sunsets around the world 🌅. Nothing beats the calmness of the ocean breeze. #sunset #wanderlust #beachlife",
+      "likes": 348,
+      "likedByCurrentUser": false,
+      "savedByCurrentUser": false,
+      "location": "Maldives",
+      "createdAt": "2026-06-18T10:00:00Z",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "john_doe",
+          "text": "Wow, this looks like paradise! 😍"
+        },
+        {
+          "id": "c2",
+          "username": "emma_watson",
+          "text": "Stunning shot! Take me there."
+        }
+      ]
     },
     {
       "id": "2",
       "user": {
         "id": 2,
-        "username": "john",
+        "username": "john_doe",
         "name": "John Doe",
-        "profile_pic": "https://i.pravatar.cc/150?img=2"
+        "profile_pic": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150"
       },
-      "image": "https://picsum.photos/500/500?random=2",
-      "caption": "Exploring new places ✈️",
-      "likes": 95,
-      "createdAt": "2026-06-10T14:30:00Z"
+      "image": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?auto=format&fit=crop&q=80&w=800",
+      "caption": "Conquered the peak! 🏔️ The climb was tough but the view from the top is worth every single step. #adventure #hiking #mountain",
+      "likes": 256,
+      "likedByCurrentUser": false,
+      "savedByCurrentUser": false,
+      "location": "Swiss Alps",
+      "createdAt": "2026-06-17T14:30:00Z",
+      "comments": [
+        {
+          "id": "c3",
+          "username": "pradhiksha040",
+          "text": "Incredible achievement, John! Keep it up."
+        }
+      ]
     },
     {
       "id": "3",
       "user": {
         "id": 3,
-        "username": "emma",
+        "username": "emma_watson",
         "name": "Emma Watson",
-        "profile_pic": "https://i.pravatar.cc/150?img=3"
+        "profile_pic": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=150"
       },
-      "image": "https://picsum.photos/500/500?random=3",
-      "caption": "Coffee and coding ☕💻",
-      "likes": 210,
-      "createdAt": "2026-06-09T09:15:00Z"
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=800",
+      "caption": "Late night coding sessions are my favorite. Quiet environment, hot coffee, and clean code. ☕💻 #developer #coding #setup",
+      "likes": 512,
+      "likedByCurrentUser": false,
+      "savedByCurrentUser": false,
+      "location": "Silicon Valley",
+      "createdAt": "2026-06-16T09:15:00Z",
+      "comments": [
+        {
+          "id": "c4",
+          "username": "pradhiksha040",
+          "text": "Best combo ever! Which keyboard is that?"
+        },
+        {
+          "id": "c5",
+          "username": "alex_mercer",
+          "text": "Clean setup!"
+        }
+      ]
     }
   ],
   "stories": [
     {
       "id": "1",
       "username": "pradhiksha040",
-      "profile_pic": "https://i.pravatar.cc/150?img=1"
+      "profile_pic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150"
     },
     {
       "id": "2",
-      "username": "john",
-      "profile_pic": "https://i.pravatar.cc/150?img=2"
+      "username": "john_doe",
+      "profile_pic": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150"
     },
     {
       "id": "3",
-      "username": "emma",
-      "profile_pic": "https://i.pravatar.cc/150?img=3"
-    }
-  ],
-  "suggestions": [
-    {
-      "id": "1",
-      "username": "alex",
-      "profile_pic": "https://i.pravatar.cc/150?img=4"
+      "username": "emma_watson",
+      "profile_pic": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=150"
     },
     {
-      "id": "2",
-      "username": "sophia",
-      "profile_pic": "https://i.pravatar.cc/150?img=5"
+      "id": "4",
+      "username": "travel_guru",
+      "profile_pic": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=150"
     },
     {
-      "id": "3",
-      "username": "michael",
-      "profile_pic": "https://i.pravatar.cc/150?img=6"
-    }
-  ],
-  "profile": [
-    {
-      "id": "1",
-      "username": "pradhiksha040",
-      "name": "Pradhiksha M",
-      "profile_pic": "src/assets/virat.webp"
-    },
-    {
-      "id": "ygvGAYhk1jU"
-    },
-    {
-      "id": "6u6g7rV3fj4"
+      "id": "5",
+      "username": "foodie_vibes",
+      "profile_pic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=150"
     }
   ],
   "story": [
@@ -95,48 +114,129 @@
         "id": 1,
         "username": "pradhiksha040",
         "name": "Pradhiksha M",
-        "profile_pic": "https://i.pravatar.cc/150?img=1"
+        "profile_pic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150"
       },
-      "image": "/src/assets/virat.webp"
+      "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&q=80&w=800"
     },
     {
       "id": "2",
       "user": {
         "id": 2,
-        "username": "john",
+        "username": "john_doe",
         "name": "John Doe",
-        "profile_pic": "https://i.pravatar.cc/150?img=2"
+        "profile_pic": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150"
       },
-      "image": "/src/assets/msd.webp"
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800"
     },
     {
       "id": "3",
       "user": {
         "id": 3,
-        "username": "emma",
+        "username": "emma_watson",
         "name": "Emma Watson",
-        "profile_pic": "https://i.pravatar.cc/150?img=3"
+        "profile_pic": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=150"
       },
-      "image": "/src/assets/virat.webp"
+      "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 4,
+        "username": "travel_guru",
+        "name": "Alex Mercer",
+        "profile_pic": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=150"
+      },
+      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 5,
+        "username": "foodie_vibes",
+        "name": "Sophia Miller",
+        "profile_pic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=150"
+      },
+      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=800"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "alex_mercer",
+      "name": "Alex Mercer",
+      "profile_pic": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=150",
+      "followed": false
+    },
+    {
+      "id": "2",
+      "username": "sophia_miller",
+      "name": "Sophia Miller",
+      "profile_pic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=150",
+      "followed": false
+    },
+    {
+      "id": "3",
+      "username": "michael_brown",
+      "name": "Michael Brown",
+      "profile_pic": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=150",
+      "followed": false
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "username": "pradhiksha040",
+      "name": "Pradhiksha M",
+      "profile_pic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150",
+      "bio": "Web Developer & Designer | Creating pixel-perfect clones 💻✨\n📩 DM for collaborations!\n📍 Chennai, India",
+      "website": "github.com/Pradhiksha040",
+      "postsCount": 3,
+      "followersCount": 1024,
+      "followingCount": 512
     }
   ],
   "followers": [
     {
       "id": "2",
-      "username": "john",
+      "username": "john_doe",
       "name": "John Doe",
-      "profile_pic": "https://i.pravatar.cc/150?img=2"
+      "profile_pic": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150"
     },
     {
-      "id": "1",
-      "username": "pradhiksha040",
-      "name": "Pradhiksha M",
-      "profile_pic": "https://i.pravatar.cc/150?img=1"
-    },
-    {
-      "id": "9YOcJlbboKI",
-      "username": "sophia"
+      "id": "3",
+      "username": "emma_watson",
+      "name": "Emma Watson",
+      "profile_pic": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=150"
     }
   ],
-  "$schema": "./node_modules/json-server/schema.json"
+  "messages": [
+    {
+      "id": "msg_1",
+      "chatId": "john_doe",
+      "sender": "john_doe",
+      "text": "Hey Pradhiksha! Loving the Instagram clone you're working on.",
+      "timestamp": "2026-06-18T10:15:00Z"
+    },
+    {
+      "id": "msg_2",
+      "chatId": "john_doe",
+      "sender": "pradhiksha040",
+      "text": "Thanks John! It is almost complete, building chat support right now.",
+      "timestamp": "2026-06-18T10:16:00Z"
+    },
+    {
+      "id": "msg_3",
+      "chatId": "john_doe",
+      "sender": "john_doe",
+      "text": "That's awesome! Let me know when it's live.",
+      "timestamp": "2026-06-18T10:17:00Z"
+    },
+    {
+      "id": "msg_4",
+      "chatId": "emma_watson",
+      "sender": "emma_watson",
+      "text": "Hi! Are you going to add css filters in the creation modal?",
+      "timestamp": "2026-06-18T09:30:00Z"
+    }
+  ]
 }
